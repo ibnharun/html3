@@ -1,0 +1,54 @@
+body {
+	background-color: darkgrey;
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	width: 500px;
+	min-height: 20px;
+	margin: auto;
+	border: 1px solid darkgrey;
+	padding: 5px 10px;
+	background-color: grey;
+	text-align: center;
+}
+
+#ib img{
+	width: 100px;
+	border-radius: 70px;
+	height: 18%;
+	position: relative;
+	top: 27px;
+}
+
+h1 {
+	color: lightgrey;
+	margin-bottom: 20px;
+}
+
+#button {
+	padding-bottom: 20px;
+}
+
+#button a {
+	text-decoration: none;
+	color: black;
+	background-color: #228B22;
+	padding: 9px 45px;
+}
+
+#button .button-1 {
+	margin-bottom: 38px;
+}
+
+#reshape {
+	color: lightgrey;
+}
+
+.second p {
+	line-height: 1.5;
+	text-align-last: justify;
+}
+
+
